@@ -34,6 +34,5 @@ The system works as follows :
 5. The student can view the chosen time table anytime during the process. 
 
 Project Contributers :
-1. Medhini G N (medhini95@gmail.com)
-2. Shreya Venkatesh (shre95@gmail.com)
-3. Meghana Potta (meghana.potta@gmail.com)
+1.Krishna Garg
+2.Priyanshu Tomar
