@@ -9,7 +9,7 @@ The minimum number of credits to be earned are mentioned so that students select
 
 Students are queued in the decreasing order of their Cumulative Grade Point Average (CGPA ) from the previous semesters. Class limits were set for each course and students with higher CGPA were allowed to choose first. When the Time Table allotments begin, the student with the highest pointer has his activation signal go green. The signal remains green as long as he is choosing the subjects. Once he finalizes his time table the next student in line receives the signal and the first student's activation signal turns red. A student can view his chosen time table at any point of time. Provisions were made to run the source program on different systems, thus allowing students to choose their time table from their personal computers. This makes the system a real time one. 
 
-This project was implemented as a part of Paradigms of Programming-1 Course, 3rd Semester (B.Tech), Department of Computer Technology, SRM University,Chennai. It has been written in Java. Our project takes into consideration two departments, namely IT and ECE. This can be easily extended further to incorporate a larger database. 
+This project was implemented as a part of Paradigms of Programming-1 Course, 3rd Semester (B.Tech), Department of Computer Technology, SRM University, Chennai. It has been written in Java. Our project takes into consideration two departments, namely CSE and ECE . This can be easily extended further to incorporate a larger database. 
 
 Frontend :
 The frontend was designed using GUI features offered by Java. Radio buttons, JTables, Dialog boxes and other basic facilities were incorporated.
